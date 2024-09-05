@@ -1,6 +1,6 @@
-﻿using SponsorshipWebApp.Models;
+﻿using SponsorshipApp.Models;
 
-namespace SponsorshipWebApp.DAO
+namespace SponsorshipApp.DAO
 {
     public interface ISponsorDao
     {

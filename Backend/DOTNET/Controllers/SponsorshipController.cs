@@ -1,9 +1,9 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using SponsorshipWebApp.DAO;
-using SponsorshipWebApp.Models;
+using SponsorshipApp.DAO;
+using SponsorshipApp.Models;
 
-namespace SponsorshipWebApp.Controllers
+namespace SponsorshipApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]

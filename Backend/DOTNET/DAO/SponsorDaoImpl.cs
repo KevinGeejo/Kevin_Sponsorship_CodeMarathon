@@ -1,9 +1,9 @@
 ﻿using Npgsql;
-using SponsorshipWebApp.Models;
+using SponsorshipApp.Models;
 using System.Data.Common;
 using System.Data;
 
-namespace SponsorshipWebApp.DAO
+namespace SponsorshipApp.DAO
 {
     public class SponsorDaoImpl : ISponsorDao
     {

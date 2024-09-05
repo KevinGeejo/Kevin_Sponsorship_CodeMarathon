@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace SponsorshipWebApp.Models
+namespace SponsorshipApp.Models
 {
     public class PaymentDetails
     {

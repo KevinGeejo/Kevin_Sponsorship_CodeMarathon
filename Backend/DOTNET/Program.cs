@@ -1,7 +1,7 @@
 using Npgsql;
-using SponsorshipWebApp.DAO;
+using SponsorshipApp.DAO;
 
-namespace SponsorshipWebApp
+namespace SponsorshipApp
 {
     public class Program
     {

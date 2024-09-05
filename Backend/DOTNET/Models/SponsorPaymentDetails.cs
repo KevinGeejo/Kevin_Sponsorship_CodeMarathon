@@ -1,4 +1,4 @@
-﻿namespace SponsorshipWebApp.Models
+﻿namespace SponsorshipApp.Models
 {
     public class SponsorPaymentDetails
     {
